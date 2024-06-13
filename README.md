@@ -1,4 +1,4 @@
-Proyek Untuk Module 21, 
+Proyek Untuk Module 21
 Tujuan : Untuk melakukan pengetesan pada website saucedemo dengan menggunakan beberapa scenario
 
 Cara Menjalankan Proyek :
